@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Formation JENKINS by Yaya
-                           !");
+        System.out.println("Hello, Formation JENKINS by Yaya!");
     }
 }
